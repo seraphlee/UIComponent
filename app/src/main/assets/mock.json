@@ -1,0 +1,120 @@
+{
+  "value": "根结点",
+  "children": [
+      {
+        "value": "第一层1",
+        "children": [
+          {
+            "value": "第二层1",
+            "children": [
+              {
+                "value": "第三层1",
+                "children": []
+              },
+              {
+                "value": "第三层2",
+                "children": []
+              },
+              {
+                "value": "第三层3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "value": "第二层2",
+            "children": []
+          },
+          {
+            "value": "第二层3",
+            "children": []
+          },
+          {
+            "value": "第二层4",
+            "children": []
+          },
+          {
+            "value": "第二层5",
+            "children": []
+          },
+          {
+            "value": "第二层6",
+            "children": []
+          },
+          {
+            "value": "第二层7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "第一层2",
+        "children": [
+          {
+            "value": "第二层1",
+            "children": []
+          },
+          {
+            "value": "第二层2",
+            "children": []
+          },
+          {
+            "value": "第二层3",
+            "children": []
+          },
+          {
+            "value": "第二层4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "第一层3",
+        "children": []
+      },
+      {
+        "value": "第一层4",
+        "children": []
+      },
+      {
+        "value": "第一层5",
+        "children": []
+      },
+      {
+        "value": "第一层6",
+        "children": []
+      },
+      {
+        "value": "第一层7",
+        "children": []
+      },
+      {
+        "value": "第一层8",
+        "children": []
+      },
+      {
+        "value": "第一层9",
+        "children": []
+      },
+      {
+        "value": "第一层10",
+        "children": []
+      },
+      {
+        "value": "第一层11",
+        "children": []
+      },
+      {
+        "value": "第一层12",
+        "children": []
+      },
+      {
+        "value": "第一层13",
+        "children": []
+      },
+      {
+        "value": "第一层14",
+        "children": []
+      }
+    ]
+}
